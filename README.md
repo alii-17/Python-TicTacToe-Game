@@ -11,6 +11,10 @@ This project helped me practice the fundamentals of programming and game logic.
 - Simple and clean **command-line interface**  
 - Beginner-friendly code  
 
+
+https://github.com/user-attachments/assets/fb6229ec-790a-442a-8d93-93e565d50ce5
+
+
 ---
 
 ## 🛠️ Skills Learned
